@@ -1,3 +1,8 @@
-print("hola")
-hola="Hola"
-num=2
+import random
+import json
+import pickle
+import numpy as np
+import nltk
+from nltk.stem import WordNetLemmatizer
+from tensorflow import Sequential
+from 
